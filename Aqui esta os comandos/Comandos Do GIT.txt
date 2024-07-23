@@ -1,0 +1,18 @@
+Comandos do Git
+
+Para clonar um repositorio do git utilize o : 
+git clone <url do repositorio>
+
+Para verificar as diferencas entre o local e o remoto utilize o :
+git status
+
+Para Adicionar o arquivo no backstage utilize o comando: 
+git add. 
+
+para adicionar a descrição da alteracao e commitar utilize o comando
+Git commit -m  “comentario da alteracoes”
+
+para transferir os arquivos e finalizar utilize o comando 
+git push 
+
+Finalizado dados basico
